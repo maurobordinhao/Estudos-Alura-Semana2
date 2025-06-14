@@ -1,0 +1,3 @@
+O Blue-Green Deploy usa dois ambientes (um ativo e outro standby) alternam entre versões até que o novo ambiente assuma toda a aplicação.
+
+O Deploy Canario – Libera a nova versão gradativamente para uma parte dos usuários e vai monitorando possíveis problemas antes de liberar para todos.
