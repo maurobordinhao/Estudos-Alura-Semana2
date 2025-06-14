@@ -1,0 +1,3 @@
+O pipeline de entrega segue um roteiro que normalmente é conhecido como esteira CI/CD.
+
+Nesse processo ocorre o build/empacotamento, Testes unitários, integração, segurança, fim-a-fim, criação de artefatos como imagens docker e o Deploy que é a publicação da aplicação em ambientes como desenvolvimento, homologação, produção.
