@@ -1,0 +1,5 @@
+CI Continuous Integration (Integração Contínua) é o processo de integrar frequentemente o código desenvolvido por uma equipe em um repositório compartilhado, com execução automatizada de testes para garantir a qualidade.
+
+CD Continuous Delivery (Entrega Contínua): É a etapa posterior ao CI, que entrega o software para implantação (deploy) e necessita de uma aprovação manual.
+
+CD Continuous Deployment (Deploy Contínuo): É mais automatizado do que o Continuous Delivery, o código é implantado após passar pelos testes e não precisa de intervenção manual
